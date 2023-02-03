@@ -1,0 +1,4 @@
+name : WorkshopPlugin
+version : 1.0
+author : Your Name
+main : myplugin.WorkshopPlugin
